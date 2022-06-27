@@ -12,7 +12,6 @@
 * [Project Introduction](#project-introduction)
 * [Techolgies Used](#technologies-used)
 * [Project Description](#project-description)
-* [Working of the Project](#working-of-the-project)
 * [Getting Started](#getting-started)
   * [Pre-requisites](#pre-requisites)
 * [Installation](#installation)
@@ -112,3 +111,11 @@ python server.py
 The dataset used in this project is from Kaggle which is the [Bengaluru House Price Data](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data).
 
 ---
+
+# License
+
+[MIT License](https://github.com/AnishLohiya/Real-Estate-Price-Prediction/blob/master/LICENSE)
+
+# Contributing Guidlines
+
+Please refer to [CODE_OF_CONDUCT.md](https://github.com/AnishLohiya/Real-Estate-Price-Prediction/blob/master/CODE_OF_CONDUCT.md) and [CONTRIBUTING.md](https://github.com/AnishLohiya/Real-Estate-Price-Prediction/blob/master/CONTRIBUTING.md) before contributing.
